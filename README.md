@@ -9,7 +9,7 @@
 
 ## 📝 Description
 
-**ft_transcendence** est le projet final du tronc commun de l'École 42 - une plateforme web complète de jeu Pong multijoueur avec des fonctionnalités modernes d'authentification, multijoeur en temps réel et de rendu 3D.
+**ft_transcendence** est le projet final du tronc commun de l'École 42 - une plateforme web complète de jeu Pong multijoueur avec des fonctionnalités modernes d'authentification, mode multijoueur en remote et de rendu 3D.
 
 ## 🎯 Objectifs du Projet
 
